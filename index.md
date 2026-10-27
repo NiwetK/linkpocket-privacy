@@ -67,7 +67,8 @@ new date.
 
 ### Contact
 
-Questions: open an issue at <https://github.com/NiwetK/linkpocket-privacy/issues>.
+Questions or support: email <niwet.ksl@hotmail.com>, or open an issue at
+<https://github.com/NiwetK/linkpocket-privacy/issues>.
 
 ## ภาษาไทย {#thai}
 
@@ -108,4 +109,4 @@ LinkPocket ไม่ได้มุ่งเป้าไปที่เด็ก
 
 ### ติดต่อ
 
-สอบถาม: เปิด issue ที่ <https://github.com/NiwetK/linkpocket-privacy/issues>
+สอบถามหรือขอความช่วยเหลือ: อีเมล <niwet.ksl@hotmail.com> หรือเปิด issue ที่ <https://github.com/NiwetK/linkpocket-privacy/issues>
